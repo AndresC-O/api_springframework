@@ -1,2 +1,2 @@
-# test_repositorygit
-Repositorio únicamente creado para practicar Git a nivel de consola.
+# api_springframework
+Repositorio diseñado para desarrollar la api a utilizar en Android Studio
